@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "backend_summer",
+  "version": "1.0.0",
+  "description": "backend practice in summer",
+  "main": "/src/index.js",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon /src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitaman16/backend_summer.git"
+  },
+  "keywords": [
+    "buu",
+    "yoda",
+    "chai"
+  ],
+  "author": "aman choudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitaman16/backend_summer/issues"
+  },
+  "homepage": "https://github.com/gitaman16/backend_summer#readme"
+}
